@@ -1,5 +1,5 @@
 # AR-workshop
-Augmented Reality demos and workshops
+Augmented Reality demos and workshop
 
 # Day 1 
 
