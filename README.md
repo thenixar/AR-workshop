@@ -12,3 +12,19 @@ Day 1
 4.what is Magic leap
 
 5.Discussion on platforms for building AR apps
+
+6. plan for the next day 
+
+Day 2
+
+1.understanding how unity and vuforia works
+
+2.Developing basic AR apps in unity editor
+
+3.Discussion on cross-platform approach
+
+4.Discussion on native AR plugins (ARKit/ARCore)
+
+5.Networking session
+
+6.Wrap up of workshop
