@@ -1,2 +1,2 @@
-# AR-worksop
+# AR-workshop
 Augmented Reality demos and workshops
