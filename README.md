@@ -1,7 +1,7 @@
 # AR-workshop
 Augmented Reality demos and workshops
 
-Day 1 
+# Day 1 
 
 1.What is Augmented Reality and how it is different from VR/MR/XR
 
@@ -15,7 +15,7 @@ Day 1
 
 6.plan for the next day 
 
-Day 2
+# Day 2
 
 1.understanding how unity and vuforia works
 
