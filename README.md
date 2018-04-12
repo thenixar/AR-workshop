@@ -13,7 +13,7 @@ Day 1
 
 5.Discussion on platforms for building AR apps
 
-6. plan for the next day 
+6.plan for the next day 
 
 Day 2
 
