@@ -17,7 +17,7 @@ Augmented Reality demos and workshop
 
 # Day 2
 
-install vuforia  try this tutorial https://www.youtube.com/watch?v=kjNhWrUpUeE
+install unity and vuforia  try this tutorial https://www.youtube.com/watch?v=kjNhWrUpUeE
 
 link to download unity -- https://store.unity.com/download?ref=personal
 
